@@ -3,3 +3,13 @@ p{
     color: #008000
 }
 
+img{
+    max-width: 50%;
+    max-height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-control-prev{
+    color:aquamarine;
+}
